@@ -1,0 +1,8 @@
+ipykernel
+jupyter
+crewai 
+crewai-tools
+langchain-community
+python-dotenv
+openai
+langchain-openai
