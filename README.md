@@ -26,7 +26,7 @@ Follow these steps to set up and run the CrewAI Agentic Blog Generator in your l
 1. **Clone the Repository**
    Begin by cloning this repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/crewai-blog-generator.git
+   git clone https://github.com/shyamsundar009/crewai-blog-generator.git
    cd crewai-blog-generator
    ```
 
